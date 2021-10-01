@@ -1,0 +1,1 @@
+cmd_/home/airj23/Documents/ModularProgramming/CharDev/chardev.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/airj23/Documents/ModularProgramming/CharDev/chardev.ko /home/airj23/Documents/ModularProgramming/CharDev/chardev.o /home/airj23/Documents/ModularProgramming/CharDev/chardev.mod.o ;  true
